@@ -5,8 +5,8 @@ I enjoy coding and mathematics
 
 * 🌍  I'm based in Singapore
 * ✉️  You can contact me at [sunzizhuo33@gmail.com](mailto:sunzizhuo33@gmail.com)
-* 🚀  I'm currently working on [iEMB-Mobile](http://github.com/UnidentifiedX/iEMB-Mobile)
-* 🧠  I'm learning Next.js and other frontend frameworks
+* 🚀  I'm currently working on [Simulating Particles in Fusion Hotspots and Particle Interactions in MagLIF](https://github.com/23HCI03SMP)
+* 🧠  I'm learning C++
 * 🤝  I'm open to collaborating on fun and interesting projects
 
 <a href="https://www.github.com/UnidentifiedX" target="_blank" rel="noreferrer"><img
