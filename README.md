@@ -5,7 +5,7 @@ I enjoy coding and mathematics
 
 * 🌍  I'm based in Singapore
 * ✉️  You can contact me at [sunzizhuo33@gmail.com](mailto:sunzizhuo33@gmail.com)
-* 🚀  I'm currently working on [Simulating Particles in Fusion Hotspots and Particle Interactions in MagLIF](https://github.com/23HCI03SMP)
+* 🚀  I'm currently working on [P-CATS: Particle-Cluster Approximation Tree Simulation](https://github.com/23HCI03SMP/P-CATS)
 * 🧠  I'm learning C++
 * 🤝  I'm open to collaborating on fun and interesting projects
 
